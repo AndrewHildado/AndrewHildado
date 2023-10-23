@@ -3,41 +3,6 @@
   <h2 align="center">🇨🇳 李焕然</h2>
   <p align="center">🦄🌕Talk is cheap,show me the code🌕🦄
     ### Hi there 👋
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-    
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-    <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrewhildado&label=Profile%20views&color=0e75b6&style=flat" alt="andrewhildado" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrewhildado" alt="andrewhildado" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/null" target="blank"><img src="https://img.shields.io/twitter/follow/null?logo=twitter&style=for-the-badge" alt="null" /></a> </p>
-
-- 🔭 I’m currently working on [Java](link)
-
-- 🌱 I’m currently learning **SpringCloud**
-
-- 👯 I’m looking to collaborate on [OpenCV](link)
-
-- 🤝 I’m looking for help with [3D reconstruction](link)
-
-- 👨‍💻 All of my projects are available at [link](link)
-
-- 📝 I regularly write articles on [link](link)
-
-- 💬 Ask me about **Java redis Spring Mysql**
-
-- 📫 How to reach me **1542616499@qq.com**
-
-- 📄 Know about my experiences [link](link)
-
-- ⚡ Fun fact **I Think I am funny**
-
-
-
 <!--
 **AndrewHildado/AndrewHildado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
